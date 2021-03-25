@@ -1,0 +1,26 @@
+{
+    "name": "aguilarn/php-query-builder",
+    "type": "library",
+    "keywords": [
+        "sql",
+        "querybuilder",
+        "php"
+    ],
+    "homepage": "https://github.com/aguilarn/PHPQueryBuilder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aguilarn",
+            "email": "aguilardc1105@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "QueryBuilder\\": "src/"
+        }
+    }
+}
