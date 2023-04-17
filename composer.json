@@ -1,5 +1,5 @@
 {
-    "name": "aguilarn/php-query-builder",
+    "name": "aguilardc/php-query-builder",
     "type": "library",
     "keywords": [
         "sql",
@@ -10,7 +10,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "aguilarn",
+            "name": "aguilardc",
             "email": "aguilardc1105@gmail.com"
         }
     ],
